@@ -18,7 +18,7 @@ Many South Africans — especially youth — have become disconnected from their
 ## 🧰 Tech Stack
 
 - **Frontend:** React, HTML5, CSS3, JavaScript
-- **Backend:** Python (Flask/FastAPI)
+- **Backend:** Python, Azure Functions (Flask/FastAPI)
 - **AI / Translation:** Azure Custom Translator, Azure Speech Services, Microsoft Copilot
 - **AR Integration:** WebAR / 8thWall or Unity+Vuforia bridge
 - **Database:** Azure Cosmos DB
@@ -26,7 +26,7 @@ Many South Africans — especially youth — have become disconnected from their
 
 ## 🔐 Security
 
-- User input validation and sanitization
+- User input validation, sanitization and hashing
 - Secure API keys (env variables)
 - Role-based access for contributors (future enhancement)
 
